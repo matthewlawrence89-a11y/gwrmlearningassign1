@@ -1,5 +1,6 @@
 # COMPAS Machine Learning Workflow (R → Python)
 
+## Gen AI was used to help create portions of this code
 ## Purpose
 This project replicates an R-based machine learning workflow using Python. The analysis focuses on predicting recidivism risk and evaluating fairness across demographic groups.
 
